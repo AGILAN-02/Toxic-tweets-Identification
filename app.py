@@ -48,7 +48,7 @@ Toxic Tweet dataset.
 Input any sentence to check if it contains toxic content.
 """)
 
-st.sidebar.write("👨‍💻 **Developer:** You") 
+st.sidebar.write("👨‍💻 **Developer:** AGILAN") 
 
 # -------------- INPUT CARD -----------------------
 with st.container():
